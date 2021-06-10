@@ -3410,12 +3410,13 @@ img.u-pull-left {
 .about-info__pic {
     object-fit     : cover;
     margin         : 0;
+    margin-right   : 10 px; 
     vertical-align : bottom;
 }
 
 .about-info__text {
-    padding     : var(--vspace-3_5) 10vw var(--vspace-2) 0;
-    margin-left : -4rem;
+    padding     : var(--vspace-3_5) 10vw var(--vspace-2) 5vw ; 
+    margin-left : 100 px;
 }
 
 .about-info__text .text-pretitle {
