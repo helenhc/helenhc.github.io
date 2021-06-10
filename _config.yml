@@ -1,0 +1,6 @@
+title: example
+logo: /assets/img/logo.png
+description: My name is Helen Chung, a data scientist with a love for civic technology. 
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
